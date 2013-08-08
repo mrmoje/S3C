@@ -1,4 +1,4 @@
 S3C
 ===
 
-A very Simple C/C++ CGI Library
+A very Simple C/C++ CGI Boilerplate
